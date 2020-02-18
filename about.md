@@ -1,12 +1,4 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-You should put some information about you here.
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Programming languages I know and can utilize well are C++ and Python.
+I am a bit inexperienced when it comes to group projects and am currently working on 
+trying to get more familiar with using APIs in projects.
 
