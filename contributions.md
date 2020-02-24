@@ -23,6 +23,6 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution]( https://www.openstreetmap.org/changeset/81152779)  | Project code    |   I edited the location of a Duane Reade on Open Street Map by removing said store as it closed down several months ago.  |
+|  2   | [link to contribution]( https://www.openstreetmap.org/changeset/81152779)  | Open Street Map    |   I edited the location of a Duane Reade on Open Street Map by removing said store as it closed down several months ago.  |
 |     |     |     |      |
 |     |     |     |      |
