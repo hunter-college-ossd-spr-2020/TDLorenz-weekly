@@ -23,7 +23,7 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution]( https://www.openstreetmap.org/changeset/81152779)  | Open Street Map    |   I edited the location of a Duane Reade on Open Street Map by removing said store as it closed down several months ago.  |
+|  2   | [link to OpenStreetMap contribution]( https://www.openstreetmap.org/changeset/81152779)  | Open Street Map    |   I edited the location of a Duane Reade on Open Street Map by removing said store as it closed down several months ago.  |
 |  8   | [link to Wikipedia contribution]( https://en.wikipedia.org/w/index.php?title=O%27Neill_cylinder&oldid=947413328)  | Open Street Map    |   I edited the O'Neill Cylinder article on Wikipedia by fixing a run-on sentence. |
 
 
